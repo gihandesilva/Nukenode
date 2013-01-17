@@ -1,4 +1,4 @@
 nuke-node
 =========
 
-A simple bloggging platform written in nodejs [ nuke-node ]
+A simple blogging platform written in nodejs [ nuke-node ]
